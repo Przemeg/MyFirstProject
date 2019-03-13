@@ -1,0 +1,3 @@
+In my free time i enjoy programming in javascript especially server-side using NodeJS,
+which is great by the way. My other passion is also playing the guitar which is great fun
+to me.
